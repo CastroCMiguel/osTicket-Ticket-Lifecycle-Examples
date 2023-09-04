@@ -18,7 +18,7 @@ In this lab, I will guide you through the entire lifecycle of a ticket, from its
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com/watch?v=rMmtEZQVIj4)
 
 <h2>Ticket triage steps</h2>
 

@@ -4,7 +4,7 @@
 
 <h1>Resolving Tickets in osTicket</h1>
 
-In this lab, I will guide you through the entire lifecycle of a ticket, from its initial intake to its resolution, within the open-source help desk ticketing system, osTicket
+In this lab, I will guide you through the entire lifecycle of a ticket, from its initial intake to its resolution, within the open-source help desk ticketing system osTicket.
 
 <h2>Environments and Technologies Used</h2>
 

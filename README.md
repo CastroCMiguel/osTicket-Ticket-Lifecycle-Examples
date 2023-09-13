@@ -48,7 +48,7 @@ To create tickets within osTicket, users need to access the ticket portal and lo
 From the admin's perspective, they will receive ticket requests in their panel as soon as they are submitted. Admins have the authority to reassign tickets to specific agents or the relevant teams. They also assess the severity level of each issue and assign it accordingly to ensure that tickets are addressed within the appropriate Service Level Agreement (SLA). In this scenario, Jane, acting as an admin, viewed a ticket, reassigned it to the System Administrators, and adjusted the severity level to "Emergency" based on the nature and urgency of the problem.
 
 <p align="center">
-<img src="https://i.imgur.com/j6QPQLB.png" alt="1"/>
+<img src="https://i.imgur.com/LkWyHtz.png" alt="1"/>
 </p>
 
 <p align="center">
